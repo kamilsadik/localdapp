@@ -26,5 +26,6 @@ const AAVE_V2_ADDRESS = "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9";
 async function repayLoan(reserve, amount, onBehalfOf) {
   AAVE_V2 = new ethers.Contract(AAVE_V2_ADDRESS, AAVE_V2_ABI, await provider.getSigner());
   const USER_SIGNER = await ethers.getSigner(WALLET_PRIVATE_KEY);
-  await AAVE_V2.connect(USER_SIGNER).repay(reserve, amount, onBehalfOf);
+  const result = await AAVE_V2.connect(USER_SIGNER).repay(reserve, amount, onBehalfOf);
+  console.log(result.logs[0]);
 }
