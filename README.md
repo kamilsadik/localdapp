@@ -12,7 +12,7 @@ A subsequent iteration will add a simple UI, such that non-technical users can m
 
 # Motivation
 
-Most users rely on (centralized) front-ends to track and repay their DeFi loans. Even power users generally rely on Etherscan as a conduit for interacting with DeFi smart contracts and accessing verified source code and ABIs, making it a key single point of failure.
+Most users rely on centralized front-ends to track and repay their DeFi loans. Even power users generally rely on Etherscan as a conduit for interacting with DeFi smart contracts and accessing verified source code and ABIs, making it a key single point of failure.
 
 # Instructions
 
