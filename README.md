@@ -1,4 +1,4 @@
-# LocalDapp
+# Svalbard
 
 This repository contains downloadable scripts with which to interact with major DeFi protocols with nothing more than your local machine and access to an Ethereum node.
 
