@@ -1,6 +1,6 @@
 # Svalbard
 
-Svalbard is a turnkey set of downloadable scripts with which to interact with major DeFi protocols using nothing more than your local machine and access to an Ethereum node.
+Svalbard is a turnkey set of scripts with which to interact with major DeFi protocols using nothing more than your local machine and access to an Ethereum node.
 
 The purpose of this repo is to enable users to manage their outstanding DeFi positions in the event of a coordinated DDoS attack on DeFi front-ends.
 
@@ -14,7 +14,7 @@ Most users rely on (centralized) front-ends to track and repay their DeFi loans.
 
 # Instructions
 
-Users should download this repo, and populate a .env file with:
+Users should download this repo, and populate a .env file in the root directory containing:
 
 ```
 WALLET_PRIVATE_KEY=""
