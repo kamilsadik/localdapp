@@ -1,6 +1,6 @@
 # Svalbard
 
-Svalbard is a turnkey set of scripts with which to interact with major DeFi protocols using nothing more than your local machine and access to an Ethereum node (whether via Alchemy/Infura, or locally).
+Svalbard is a turnkey set of scripts with which to interact with major DeFi protocols using nothing more than your local machine and access to an Ethereum node (whether via Alchemy/Infura or locally).
 
 The purpose of this repo is to enable users to manage their outstanding DeFi positions in the event of a coordinated DDoS attack on DeFi front-ends.
 
