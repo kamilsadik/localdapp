@@ -14,3 +14,5 @@ Users should download this repo, and populate a .env file with:
 WALLET_PRIVATE_KEY=""
 ENDPOINT=""
 ```
+
+This project is named Svalbard, after the [Svalbard Global Seed Vault](https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault), a backup facility that stores seeds from around the world to protect the world's food supply and biodiversity in the event of disaster.
